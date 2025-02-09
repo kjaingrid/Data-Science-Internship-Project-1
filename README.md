@@ -25,4 +25,4 @@ For this analysis, **House 5** was selected as the primary focus. The key files 
 1. Navigate to the folder of the required house (`house1` to `house5`).  
 2. Extract the dataset (if provided as a ZIP file).  
 3. Open `final.ipynb` to explore and analyze the House 5 dataset.  
-4. Refer to `main_blog.pdf` for key findings and `appendix.pdf` for additional details.  
+4. Refer to `blog_kunal_jain.pdf` for key findings and `appendix_kunal_jain.pdf` for additional details.  
