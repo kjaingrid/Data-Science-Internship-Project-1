@@ -26,3 +26,11 @@ For this analysis, **House 5** was selected as the primary focus. The key files 
 2. Extract the dataset (if provided as a ZIP file).  
 3. Open `final.ipynb` to explore and analyze the House 5 dataset.  
 4. Refer to `blog_kunal_jain.pdf` for key findings and `appendix_kunal_jain.pdf` for additional details.  
+
+## Dataset Source & Reference  
+
+The primary dataset used in this analysis is from:  
+🔗 [UK-DALE 2017 FULL Disaggregated Dataset](https://data.ukedc.rl.ac.uk/cgi-bin/data_browser/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017/UK-DALE-FULL-disaggregated?dataid=)  
+
+A major reference for this study is:  
+📄 [UK-DALE: A dataset for domestic energy monitoring](https://www.nature.com/articles/sdata20157)  
